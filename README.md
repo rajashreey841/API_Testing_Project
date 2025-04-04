@@ -28,11 +28,7 @@ This project uses **GitHub Actions** to automatically run tests when code is pus
 
 ---
 
-Now push your README file:
-```bash
-git add README.md
-git commit -m "Added README"
-git push origin main
+
 
 
 
