@@ -1,4 +1,4 @@
-# API_Testing_Project
+# API_Testing
 
 ## Overview
 This project tests RESTful API endpoints using **Python, PyTest, and Requests Library**.  
