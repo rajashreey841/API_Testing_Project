@@ -19,7 +19,7 @@ This project tests RESTful API endpoints using **Python, PyTest, and Requests Li
 ## How to Run
 1. Clone this repo:
 2. Install dependencies:
-3. Run API tests:
+3. Run API tests
 
 
 ## Continuous Integration (CI/CD)
