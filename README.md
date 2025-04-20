@@ -1,4 +1,4 @@
-## API Testing
+### API Testing
 
 ## Overview
 This project tests RESTful API endpoints using **Python, PyTest, and Requests Library**.  It automates API testing for a sample booking system.
